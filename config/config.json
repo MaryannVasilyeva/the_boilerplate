@@ -1,0 +1,14 @@
+{
+  "api":{ 
+    "name": "",
+    "version": "1.0.0",
+    "host": "",
+    "port": "" 
+  },
+  "databases":{
+    "host": "",
+    "db": "",
+    "user": "",
+    "pass": ""
+  }
+}
