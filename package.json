@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/MaryannVasilyeva/the_boilerplate#readme",
   "dependencies": {
-    "restify": "^4.3.0"
+    "restify": "^4.3.0",
+    "sequelize": "^1.7.11"
   }
 }
